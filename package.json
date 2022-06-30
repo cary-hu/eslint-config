@@ -1,6 +1,6 @@
 {
   "name": "@caryhu/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Cary Hu <305997735@qq.com> (https://github.com/cary-hu)",
   "description": "ESLint configuration for JavaScript, Customized with caryhu's style",
   "homepage": "https://github.com/cary-hu/eslint-config",
