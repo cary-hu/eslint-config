@@ -6,7 +6,8 @@
   "homepage": "https://github.com/cary-hu/eslint-config",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "standard.js"
   ],
   "scripts": {
     "lint": "eslint . --config=index.js"
