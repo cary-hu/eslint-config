@@ -1,13 +1,19 @@
 {
   "name": "@caryhu/eslint-config",
   "version": "0.0.4",
-  "description": "",
+  "author": "Cary Hu <305997735@qq.com> (https://github.com/cary-hu)",
+  "description": "ESLint configuration for JavaScript, Customized with caryhu's style",
+  "homepage": "https://github.com/cary-hu/eslint-config",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "lint": "eslint . --config=index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "eslint-config"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.2",
